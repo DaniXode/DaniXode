@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DaniXode
-- 👀 I’m interested in ...code
-- 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...comming summery intern work
-- 📫 How to reach me ...emaime 
+- 👀 I’m interested in algorithm and Datastructure
+- 🌱 I’m currently learning java,python...
+- 💞️ I’m looking to collaborate on comming summery intern work
+- 📫 How to reach me vi email 
 
 <!---
 DaniXode/DaniXode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
