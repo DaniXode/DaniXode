@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaniXode
 - 👀 I’m interested in algorithm and Datastructure
-- 🌱 I’m currently learning java,python...
+- 🌱 I’m currently learning java,python,js.
 - 💞️ I’m looking to collaborate on comming summery intern work
 - 📫 How to reach me vi email 
 -and social media influencer
