@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dani</h1>
-<div align="center"> <img src="https://github.com/DaniXode/DaniXode/blob/main/DanielgithubBanner.png"></div>
+<div align="center"> <img src="https://github.com/DaniXode/DaniXode/blob/main/webdevGit.png"></div>
 <h3 align="center">A passionate fullStack from Ethio</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
