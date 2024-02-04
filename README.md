@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Dani</h1> 
+<h1 align="center">Hi 👋, I'm Dani</h1> 
 <div align="center"> <img src="https://github.com/DaniXode/DaniXode/blob/main/webdevGit.png"></div>
 <h3 align="center">A passionate fullStack from Ethio</h3>
 
